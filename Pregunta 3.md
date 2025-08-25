@@ -5,8 +5,9 @@ En caso de tratarse de un estrato igneo, puede tener varios proceso de origen, p
 y en el caso de un estrato metamorfico se formara por una capa de rocas que sufrieron la suficiente precion y temperatura para matemorfizarse
 
 Los estratos pueden estar compuestos de rocas igneas, sedimentarias y metamorficas, asi como elementos fosiles 
-Referencias
-https://usuarios.geofisica.unam.mx/gvazquez/yacimientosELIA/zonadesplegar/Clases/Clase%2012%20Estratigrafia%20Introduccion.pdf
 
 <img width="568" height="450" alt="P1 Estratos2 pr3" src="https://github.com/user-attachments/assets/8578355a-7f07-41ce-8b2f-84ec46968269" />
 <img width="725" height="651" alt="P1 Estratos pr3" src="https://github.com/user-attachments/assets/50ac427f-48cd-42db-8a5b-aa787de53255" />
+
+Referencias
+https://usuarios.geofisica.unam.mx/gvazquez/yacimientosELIA/zonadesplegar/Clases/Clase%2012%20Estratigrafia%20Introduccion.pdf
